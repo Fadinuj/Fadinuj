@@ -1,20 +1,34 @@
 <div align="center">
+
   <!-- Alternating title -->
   <img
-    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2500&pause=800&center=true&vCenter=true&width=820&lines=Welcome+to+my+GitHub+Page!+%F0%9F%9A%80;I'm+Fadi+Nujedat"
-    alt="Welcome / Name"
+    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=34&duration=2500&pause=900&center=true&vCenter=true&width=900&lines=Welcome+to+my+GitHub+Page!+%F0%9F%9A%80;I'm+Fadi+Nujedat;B.Sc.+CS+%26+Cyber+Security;Ariel+University"
+    alt="Typing intro"
   />
 
-  <br/><br/>
+  <br/>
 
-  <!-- New background banner -->
-  <img
-    src="https://source.unsplash.com/1600x400/?cybersecurity,code,network"
-    alt="Cybersecurity background"
-    width="70%"
-    style="border-radius:10px; margin-top:10px;"
-  />
+  <!-- Clean divider -->
+  <hr style="width:65%; border:0; border-top:1px solid #30363d; margin:18px auto;" />
+
+  <!-- Tags / Highlights -->
+  <p>
+    <img src="https://img.shields.io/badge/Cyber%20Security-0b1320?style=for-the-badge" />
+    <img src="https://img.shields.io/badge/Operating%20Systems-0b1320?style=for-the-badge" />
+    <img src="https://img.shields.io/badge/Networking-0b1320?style=for-the-badge" />
+  </p>
+
+  <p>
+    <img src="https://img.shields.io/badge/C%20%7C%20C%2B%2B-161b22?style=for-the-badge" />
+    <img src="https://img.shields.io/badge/Python-161b22?style=for-the-badge" />
+    <img src="https://img.shields.io/badge/Java-161b22?style=for-the-badge" />
+    <img src="https://img.shields.io/badge/Linux%20%7C%20Bash-161b22?style=for-the-badge" />
+  </p>
+
+  <hr style="width:65%; border:0; border-top:1px solid #30363d; margin:18px auto;" />
+
 </div>
+
 
 
 ---
@@ -37,7 +51,7 @@
 I am a **Third-year student** at **Ariel University**, specializing in the **Cyber Security track**.
 I possess a strong academic background in **Data Structures**, **Operating Systems**, and **Network Security**.
 
-My goal is to integrate into the industry in **Cyber Defense**, **Software Development**, or **R&D** positions, bringing solid programming skills, system-level understanding, and strong problem-so[...] 
+My goal is to integrate into the industry in **Cyber Defense**, **Software Development**, or **R&D** positions, bringing solid programming skills, system-level understanding, and strong problems. 
 
 ---
 
