@@ -20,19 +20,5 @@
     <path d="M120 0 V260 M320 0 V260 M520 0 V260 M720 0 V260 M920 0 V260" stroke="#ffffff" stroke-width="1"/>
   </g>
 
-  <g font-family="Fira Code, ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, 'Liberation Mono', 'Courier New', monospace"
-     fill="#c9d1d9">
-
-    <text x="60" y="110" font-size="42" font-weight="700">
-      Welcome to my GitHub Page! 🚀
-    </text>
-
-    <text x="60" y="150" font-size="26" font-weight="600" opacity="0.9">
-      I'm Fadi Nujedat
-    </text>
-
-    <text x="60" y="185" font-size="18" fill="#8b949e">
-      B.Sc. Computer Science &amp; Cyber Security • Ariel University
-    </text>
-  </g>
+  <g font-family="Fira Code, ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, 'Liberation Mono', 'Courier New', monospace" fill="#c9d1d9"> <text x="60" y="115" font-size="42" font-weight="700"> Welcome to my GitHub Page! 🚀 <animate attributeName="opacity" values="1;1;0;0;1" dur="6s" repeatCount="indefinite"/> </text> <text x="60" y="115" font-size="42" font-weight="700" opacity="0"> I'm Fadi Nujedat <animate attributeName="opacity" values="0;0;1;1;0" dur="6s" repeatCount="indefinite"/> </text> <text x="60" y="165" font-size="18" fill="#8b949e"> B.Sc. Computer Science & Cyber Security • Ariel University </text> </g>
 </svg>
