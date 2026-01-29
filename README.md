@@ -1,42 +1,21 @@
 <div align="center">
-
-  <h1>Welcome to my GitHub Page! 🚀</h1>
-
-  <!-- Banner -->
-  <img src="https://source.unsplash.com/1600x400/?cybersecurity,code" 
-       alt="Cybersecurity and code background" 
-       width="85%" 
-       style="border-radius:14px; margin-top:12px;"/>
-
-  <br/><br/>
-
-  <!-- Typing intro -->
+  <!-- Alternating title -->
   <img
-    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2800&pause=700&center=true&vCenter=true&width=820&lines=I'm+Fadi+Nujedat;B.Sc.+CS+%26+Cyber+Security+%7C+Ariel+University;C%2FC%2B%2B+%7C+Python+%7C+Java+%7C+Linux;Networking+%7C+Operating+Systems+%7C+Security;Always+learning+%E2%9A%A1"
-    alt="Typing intro"
+    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2500&pause=800&center=true&vCenter=true&width=820&lines=Welcome+to+my+GitHub+Page!+%F0%9F%9A%80;I'm+Fadi+Nujedat"
+    alt="Welcome / Name"
   />
 
   <br/><br/>
 
-  <!-- Quick links -->
-  <p align="center">
-    <a href="mailto:fadinujedat062@gmail.com">
-      <img src="https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-    </a>
-    <a href="https://www.linkedin.com/in/YOUR_LINKEDIN_USERNAME/">
-      <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-    </a>
-    <a href="https://github.com/FadiNuj">
-      <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-    </a>
-  </p>
-
-  <!-- Profile views -->
-  <p align="center">
-    <img src="https://komarev.com/ghpvc/?username=FadiNuj&style=flat-square&color=blue" alt="Profile views" />
-  </p>
-
+  <!-- New background banner -->
+  <img
+    src="https://source.unsplash.com/1600x400/?cybersecurity,code,network"
+    alt="Cybersecurity background"
+    width="70%"
+    style="border-radius:10px; margin-top:10px;"
+  />
 </div>
+
 
 ---
 
