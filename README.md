@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/hero.svg" alt="Hero Header" width="100%"/>
+  <img src="https://raw.githubusercontent.com/Fadinuj/Fadinuj/main/assets/hero.svg" width="100%" alt="Hero Header"/>
 </p>
 
 <hr style="width:65%; border:0; border-top:1px solid #30363d; margin:18px auto;" />
