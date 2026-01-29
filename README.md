@@ -1,6 +1,11 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/Fadinuj/Fadinuj/main/assets/hero.svg" width="100%" alt="Hero Header"/>
 </p>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=2500&pause=900&center=true&vCenter=true&width=900&lines=Welcome+to+my+GitHub+Page!+%F0%9F%9A%80;I'm+Fadi+Nujedat;B.Sc.+CS+%26+Cyber+Security;Ariel+University"
+       alt="Typing intro" />
+</p>
+
 
 <hr style="width:65%; border:0; border-top:1px solid #30363d; margin:18px auto;" />
 
