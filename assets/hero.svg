@@ -27,7 +27,7 @@
   </g>
 
   <!-- avatar watermark (local file) -->
-  <image href="avatar.png" x="810" y="-40" width="340" height="340"
+  <image href="_MOH6682.png" x="810" y="-40" width="340" height="340"
          opacity="0.18" clip-path="url(#avatarClip)"/>
 
   <!-- text (alternating) -->
