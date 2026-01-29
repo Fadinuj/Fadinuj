@@ -1,5 +1,6 @@
 <div align="center">
   <h1>Welcome to my GitHub Page! 🚀</h1>
+  <img src="https://source.unsplash.com/1600x400/?computer,code" alt="Computers and code background" width="70%" style="border-radius:10px; margin-top:10px;"/>
   <h3>I'm Fadi Nujedat</h3>
 </div>
 
@@ -10,7 +11,7 @@
 I am a **Third-year student** at **Ariel University**, specializing in the **Cyber Security track**.
 I possess a strong academic background in **Data Structures**, **Operating Systems**, and **Network Security**.
 
-My goal is to integrate into the industry in **Cyber Defense**, **Software Development**, or **R&D** positions, bringing solid programming skills, system-level understanding, and strong problem-solving abilities.
+My goal is to integrate into the industry in **Cyber Defense**, **Software Development**, or **R&D** positions, bringing solid programming skills, system-level understanding, and strong problem-so[...] 
 
 ---
 
@@ -30,8 +31,8 @@ Based on my academic and practical experience, here is my technology stack:
 | Domain | Concepts & Libraries |
 | :--- | :--- |
 | **Domains** | **Machine Learning (ML)**, **Deep Learning (DL)**, MLOps |
-| **Data Processing** | ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat&logo=numpy&logoColor=white) |
-| **Modeling & MLOps** | ![scikit-learn](https://img.shields.io/badge/scikit_learn-F7931E?style=flat&logo=scikit-learn&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=flat&logo=PyTorch&logoColor=white) ![Celery](https://img.shields.io/badge/celery-%2337814A.svg?style=flat&logo=celery&logoColor=white) |
+| **Data Processing** | ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat&logo=numpy&logoColor=white) ![...]
+| **Modeling & MLOps** | ![scikit-learn](https://img.shields.io/badge/scikit_learn-F7931E?style=flat&logo=scikit-learn&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.sv[...]
 
 ### 🛡️ Cyber Security & Networking
 | Domain | Tools & Concepts |
