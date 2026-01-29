@@ -1,4 +1,9 @@
-# Hi there, I'm Fadi Nujidat! 👋
+<div align="center">
+  <h1>Welcome to my GitHub Page! 🚀</h1>
+  <h3>I'm Fadi Nujidat</h3>
+</div>
+
+---
 
 ### 🎓 B.Sc. Student in Computer Science & Cyber Security
 
@@ -24,27 +29,30 @@ Based on my academic and practical experience, here is my technology stack:
 ### 🛡️ Cyber Security & Networking
 | Domain | Tools & Concepts |
 | :--- | :--- |
-| **Network Security** | TCP/IP, UDP, DNS, HTTP/HTTPS, TLS/SSL |
+| **Network Architecture** | **Client-Server**, P2P, Socket Programming |
+| **Protocols** | **TCP/IP**, **UDP**, DNS, HTTP/HTTPS, TLS/SSL |
 | **Analysis & Forensics** | Wireshark, Tcpdump, Network Scanning (Nmap) |
 | **Defense & Offense** | IDS (Snort, Suricata), Burp Suite, Threat Detection |
 
 ### 🐧 Operating Systems & DevOps
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white)
+![macOS](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
-### 🗄️ Databases & Data Formats
+### 🎨 Frameworks, UI & Databases
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+![GUI Development](https://img.shields.io/badge/GUI_Development-Tkinter%2FSwing-4B8BBE?style=for-the-badge)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
-![JSON](https://img.shields.io/badge/JSON-000000?style=flat&logo=json&logoColor=white)
 
 ---
 
 ## 🌐 Languages
+* **English**
 * **Hebrew**
 * **Arabic**
-* **English**
 
 ---
 
