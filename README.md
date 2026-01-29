@@ -1,6 +1,7 @@
 <p align="center">
-  <img src="./assets/hero.gif" width="100%" alt="Hero Header"/>
+  <img src="https://raw.githubusercontent.com/Fadinuj/Fadinuj/main/assets/hero.svg" width="100%" alt="Hero Header"/>
 </p>
+
 
 
 
