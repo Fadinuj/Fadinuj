@@ -25,8 +25,6 @@
 <hr style="width:65%; border:0; border-top:1px solid #30363d; margin:18px auto;" />
 
 
----
-
 ### 🎓 B.Sc. Student in Computer Science & Cyber Security
 
 I am a **Third-year student** at **Ariel University**, specializing in the **Cyber Security track**.
