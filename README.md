@@ -52,8 +52,7 @@ Based on my academic and practical experience, here is my technology stack:
 | :--- | :--- |
 | **Domains** | **Machine Learning (ML)**, **Deep Learning (DL)**, MLOps |
 | **Data Processing** | ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat&logo=numpy&logoColor=white) ![...]
-| **Modeling & MLOps** | ![scikit-learn](https://img.shields.io/badge/scikit_learn-F7931E?style=flat&logo=scikit-learn&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.sv[...]
-
+| **Modeling & MLOps** | ![scikit-learn](https://img.shields.io/badge/scikit_learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
 ### 🛡️ Cyber Security & Networking
 | Domain | Tools & Concepts |
 | :--- | :--- |
