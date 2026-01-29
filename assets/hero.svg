@@ -1,0 +1,51 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="260" viewBox="0 0 1200 260">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0d1117"/>
+      <stop offset="1" stop-color="#0b1320"/>
+    </linearGradient>
+
+    <radialGradient id="glow" cx="35%" cy="40%" r="60%">
+      <stop offset="0" stop-color="#58a6ff" stop-opacity="0.25"/>
+      <stop offset="1" stop-color="#58a6ff" stop-opacity="0"/>
+    </radialGradient>
+
+    <!-- circle clip for avatar -->
+    <clipPath id="avatarClip">
+      <circle cx="980" cy="130" r="170"/>
+    </clipPath>
+  </defs>
+
+  <!-- background -->
+  <rect width="1200" height="260" fill="url(#bg)"/>
+  <rect width="1200" height="260" fill="url(#glow)"/>
+
+  <!-- subtle grid lines -->
+  <g opacity="0.10">
+    <path d="M0 60 H1200 M0 130 H1200 M0 200 H1200" stroke="#ffffff" stroke-width="1"/>
+    <path d="M120 0 V260 M320 0 V260 M520 0 V260 M720 0 V260 M920 0 V260" stroke="#ffffff" stroke-width="1"/>
+  </g>
+
+  <!-- avatar watermark (local file) -->
+  <image href="avatar.png" x="810" y="-40" width="340" height="340"
+         opacity="0.18" clip-path="url(#avatarClip)"/>
+
+  <!-- text (alternating) -->
+  <g font-family="Fira Code, ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, 'Liberation Mono', 'Courier New', monospace"
+     fill="#c9d1d9">
+
+    <text x="60" y="115" font-size="38" font-weight="700">
+      Welcome to my GitHub Page! 🚀
+      <animate attributeName="opacity" values="1;1;0;0;1" dur="6s" repeatCount="indefinite"/>
+    </text>
+
+    <text x="60" y="115" font-size="38" font-weight="700" opacity="0">
+      I'm Fadi Nujedat
+      <animate attributeName="opacity" values="0;0;1;1;0" dur="6s" repeatCount="indefinite"/>
+    </text>
+
+    <text x="60" y="160" font-size="18" fill="#8b949e">
+      B.Sc. Computer Science & Cyber Security • Ariel University
+    </text>
+  </g>
+</svg>
