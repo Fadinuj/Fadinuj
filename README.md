@@ -1,15 +1,10 @@
+<p align="center">
+  <img src="./assets/hero.svg" alt="Hero Header" width="100%"/>
+</p>
+
+<hr style="width:65%; border:0; border-top:1px solid #30363d; margin:18px auto;" />
+
 <div align="center">
-
-  <!-- Alternating title -->
-  <img
-    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=34&duration=2500&pause=900&center=true&vCenter=true&width=900&lines=Welcome+to+my+GitHub+Page!+%F0%9F%9A%80;I'm+Fadi+Nujedat;B.Sc.+CS+%26+Cyber+Security;Ariel+University"
-    alt="Typing intro"
-  />
-
-  <br/>
-
-  <!-- Clean divider -->
-  <hr style="width:65%; border:0; border-top:1px solid #30363d; margin:18px auto;" />
 
   <!-- Tags / Highlights -->
   <p>
@@ -25,9 +20,10 @@
     <img src="https://img.shields.io/badge/Linux%20%7C%20Bash-161b22?style=for-the-badge" />
   </p>
 
-  <hr style="width:65%; border:0; border-top:1px solid #30363d; margin:18px auto;" />
-
 </div>
+
+<hr style="width:65%; border:0; border-top:1px solid #30363d; margin:18px auto;" />
+
 
 
 
