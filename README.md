@@ -1,8 +1,55 @@
 <div align="center">
+
   <h1>Welcome to my GitHub Page! 🚀</h1>
-  <img src="https://source.unsplash.com/1600x400/?computer,code" alt="Computers and code background" width="70%" style="border-radius:10px; margin-top:10px;"/>
-  <h3>I'm Fadi Nujedat</h3>
+
+  <!-- Banner -->
+  <img src="https://source.unsplash.com/1600x400/?cybersecurity,code" 
+       alt="Cybersecurity and code background" 
+       width="85%" 
+       style="border-radius:14px; margin-top:12px;"/>
+
+  <br/><br/>
+
+  <!-- Typing intro -->
+  <img
+    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2800&pause=700&center=true&vCenter=true&width=820&lines=I'm+Fadi+Nujedat;B.Sc.+CS+%26+Cyber+Security+%7C+Ariel+University;C%2FC%2B%2B+%7C+Python+%7C+Java+%7C+Linux;Networking+%7C+Operating+Systems+%7C+Security;Always+learning+%E2%9A%A1"
+    alt="Typing intro"
+  />
+
+  <br/><br/>
+
+  <!-- Quick links -->
+  <p align="center">
+    <a href="mailto:fadinujedat062@gmail.com">
+      <img src="https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    </a>
+    <a href="https://www.linkedin.com/in/YOUR_LINKEDIN_USERNAME/">
+      <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    </a>
+    <a href="https://github.com/FadiNuj">
+      <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+    </a>
+  </p>
+
+  <!-- Profile views -->
+  <p align="center">
+    <img src="https://komarev.com/ghpvc/?username=FadiNuj&style=flat-square&color=blue" alt="Profile views" />
+  </p>
+
 </div>
+
+---
+
+<!-- GitHub Stats -->
+<p align="center">
+  <img height="165"
+       src="https://github-readme-stats.vercel.app/api?username=FadiNuj&show_icons=true&hide_title=true&theme=tokyonight"
+       alt="GitHub stats" />
+  <img height="165"
+       src="https://github-readme-stats.vercel.app/api/top-langs/?username=FadiNuj&layout=compact&theme=tokyonight"
+       alt="Top languages" />
+</p>
+
 
 ---
 
