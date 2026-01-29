@@ -1,6 +1,6 @@
 <div align="center">
   <h1>Welcome to my GitHub Page! 🚀</h1>
-  <h3>I'm Fadi Nujidat</h3>
+  <h3>I'm Fadi Nujedat</h3>
 </div>
 
 ---
