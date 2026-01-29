@@ -25,21 +25,6 @@
 <hr style="width:65%; border:0; border-top:1px solid #30363d; margin:18px auto;" />
 
 
-
-
----
-
-<!-- GitHub Stats -->
-<p align="center">
-  <img height="165"
-       src="https://github-readme-stats.vercel.app/api?username=FadiNuj&show_icons=true&hide_title=true&theme=tokyonight"
-       alt="GitHub stats" />
-  <img height="165"
-       src="https://github-readme-stats.vercel.app/api/top-langs/?username=FadiNuj&layout=compact&theme=tokyonight"
-       alt="Top languages" />
-</p>
-
-
 ---
 
 ### 🎓 B.Sc. Student in Computer Science & Cyber Security
