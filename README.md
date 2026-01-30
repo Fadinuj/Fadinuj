@@ -5,27 +5,6 @@
 
 <hr style="width:65%; border:0; border-top:1px solid #30363d; margin:18px auto;" />
 
-<div align="center">
-
-  <!-- Tags / Highlights -->
-  <p>
-    <img src="https://img.shields.io/badge/Cyber%20Security-0b1320?style=for-the-badge" />
-    <img src="https://img.shields.io/badge/Operating%20Systems-0b1320?style=for-the-badge" />
-    <img src="https://img.shields.io/badge/Networking-0b1320?style=for-the-badge" />
-  </p>
-
-  <p>
-    <img src="https://img.shields.io/badge/C%20%7C%20C%2B%2B-161b22?style=for-the-badge" />
-    <img src="https://img.shields.io/badge/Python-161b22?style=for-the-badge" />
-    <img src="https://img.shields.io/badge/Java-161b22?style=for-the-badge" />
-    <img src="https://img.shields.io/badge/Linux%20%7C%20Bash-161b22?style=for-the-badge" />
-  </p>
-
-</div>
-
-<hr style="width:65%; border:0; border-top:1px solid #30363d; margin:18px auto;" />
-
-
 ### 🎓 B.Sc. Student in Computer Science & Cyber Security
 
 I am a **Third-year student** at **Ariel University**, specializing in the **Cyber Security track**.
